@@ -5,3 +5,4 @@ CACoh.py works by including all necessary data (*.fif and *.wav) in the same dir
 
 Difference Score Plots contains Cohxy values for each Timepoint and Participant, flattened and substracted.
 
+If documentation is needed, a report can be provided explaining on the theory of CACoh, Python/MATLAB and the workflow of creating this ported CACoh MATLAB program.
