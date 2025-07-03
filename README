@@ -3,3 +3,5 @@ If interested in processing files (TR4,TR5,TR6) contact A.Tavano@psych.uni-frank
 Raw data contains *_.mat = MATLAB data and *_Py_*.mat for Python data that are compared using Comparing_file.py
 CACoh.py works by including all necessary data (*.fif and *.wav) in the same directory. You can change the directory structure if you use it at your device.
 
+Difference Score Plots contains Cohxy values for each Timepoint and Participant, flattened and substracted.
+
